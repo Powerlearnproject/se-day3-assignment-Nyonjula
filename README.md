@@ -1,4 +1,4 @@
-## Sample Project To Show case my git skils
+## Sample Project To Show case my git skills
 
 Created the licence file.
 Created the git ignore file.
